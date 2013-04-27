@@ -18,5 +18,10 @@
       "source": "Classes/Foo/Bar.php",
       "target": "Classes/{{name|capitalize}}/Bar.php"
     }
+  ],
+  "postProcessCommands": [
+    {
+      "command": "composer update"
+    }
   ]
 }
