@@ -2,7 +2,8 @@
   "replacements": [
     {
       "search": "namespace Foo",
-      "replace": "namespace {name}"
+      "replace": "namespace {name}",
+      "path": "/^Classes\/.*"
     }
   ],
   "rename": [
