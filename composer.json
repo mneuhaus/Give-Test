@@ -1,0 +1,14 @@
+{
+    "name": "famelo/give-test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marc Neuhaus",
+            "email": "apocalip@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "symfony/console": "~2.1"
+    }
+}
