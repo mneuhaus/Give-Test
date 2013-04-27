@@ -1,14 +1,14 @@
 {
-  replacements: [
+  "replacements": [
     {
-      search: "namespace Foo",
-      replace: "namespace {name}"
+      "search": "namespace Foo",
+      "replace": "namespace {name}"
     }
   ]
-  rename: [
+  "rename": [
     {
-      source: "Classes/Foo/Bar.php"
-      target: "Classes/{name}/Bar.php
+      "source": "Classes/Foo/Bar.php"
+      "target": "Classes/{name}/Bar.php
     }
   ]
 }
