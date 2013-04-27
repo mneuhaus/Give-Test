@@ -2,14 +2,14 @@
   "replacements": [
     {
       "search": "namespace Foo",
-      "replace": "namespace {{name | upper}}",
+      "replace": "namespace {{name|upper}}",
       "path": "/^Classes/"
     }
   ],
   "rename": [
     {
       "source": "Classes/Foo/Bar.php",
-      "target": "Classes/{{name | upper}}/Bar.php"
+      "target": "Classes/{{name|upper}}/Bar.php"
     }
   ]
 }
