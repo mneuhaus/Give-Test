@@ -2,7 +2,7 @@
   replacements: [
     {
       search: "namespace Foo",
-      replace: "namespace Bar"
+      replace: "namespace {name}"
     }
   ]
   rename: [
