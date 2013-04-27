@@ -8,7 +8,7 @@
   "rename": [
     {
       "source": "Classes/Foo/Bar.php",
-      "target": "Classes/{name}/Bar.php
+      "target": "Classes/{name}/Bar.php"
     }
   ]
 }
