@@ -3,7 +3,7 @@
     {
       "search": "namespace Foo",
       "replace": "namespace {name}",
-      "path": "/^Classes\//"
+      "path": "/^Classes/"
     }
   ],
   "rename": [
