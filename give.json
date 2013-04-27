@@ -1,4 +1,11 @@
 {
+  "variables": [
+    {
+      "name": "namespace",
+      "question": "Please specify a namespace",
+      "default": "Foo"
+    }
+  ],
   "replacements": [
     {
       "search": "namespace Foo",
