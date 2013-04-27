@@ -2,7 +2,7 @@
   "replacements": [
     {
       "search": "namespace Foo",
-      "replace": "namespace {{name || upper}",
+      "replace": "namespace {{name || upper}}",
       "path": "/^Classes/"
     }
   ],
