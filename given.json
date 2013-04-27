@@ -1,8 +1,8 @@
 {
   replacements: [
     {
-      search: "Foo",
-      replace: "Bar"
+      search: "namespace Foo",
+      replace: "namespace Bar"
     }
   ]
   rename: [
