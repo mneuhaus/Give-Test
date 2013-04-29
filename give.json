@@ -24,4 +24,10 @@
       "command": "composer update"
     }
   ]
+  "submodules": [
+    {
+      "module": "famelo/TYPO3",
+      "path": "typo3conf/ext"
+    }
+  ]
 }
