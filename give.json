@@ -23,7 +23,7 @@
     {
       "command": "composer update"
     }
-  ]
+  ],
   "submodules": [
     {
       "module": "famelo/TYPO3",
